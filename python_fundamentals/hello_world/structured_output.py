@@ -1,5 +1,6 @@
+#!/usr/bin/env python3
 print("Language: Python")
 print("Version: 3")
-price = 3.2342
-print(f"price: {price:.2f}")
-print(5 == 5)
+pi = 3.14159
+print(f"pi approx: {pi:.2f}")
+print(f"Computation valid: {5 == 5}")
