@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """A module defining a square subclass."""
-Rectangle = __import__('1-rectangle').Rectangle
+Rectangle = __import__('2-rectangle').Rectangle
 
 
 class Square(Rectangle):
